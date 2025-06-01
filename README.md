@@ -4,7 +4,7 @@ Bustration for the desktop - a playground to use before your start making your B
 
 You will need a TfL appkey to use this app and find the stop id for the stops you are interested in (two are preloaded, but you don't live near them).
 
-Put the value into a `SECRETS.py` file, based on the `EXAMPLESECRETS.py` file.
+Put the values into a `SECRETS.py` file, based on the `EXAMPLESECRETS.py` file.
 
 
 
